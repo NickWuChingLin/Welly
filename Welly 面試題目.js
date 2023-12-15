@@ -45,14 +45,7 @@ console.log(formatName('王', '大白'))
 // 因為這是判斷使用者姓名用的，先判斷firstname是否為空值，如果不為空再進行判斷lastname是不是空值，因此兩個不為空值的情況下，這個function才會正確給予姓名
 
 
-// 4. React: 條件渲染
-// 問題：在React中，如何根據條件渲染兩種不同的內容？
 
-// 範例：
 
-function ConditionalRendering({ isLoggedIn }) {
-    // 實作你的條件渲染
-}
-// 5. React: 組件
-// 問題：使用React創建一個簡單的計數器組件，具有增加和減少計數的按鈕。
+
 
